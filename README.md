@@ -2,7 +2,7 @@
 ### Hi there <img src="wave.gif" width="30px">
 
 __My name is M'barek , 
-i am fullstack web developer with IT Support experience ,I am living in Hamburg and currently Studying web devlopment at DCI__ <img src="type.gif" width="60px">
+i am fullstack web developer with IT Support experience, I am living in Hamburg and currently Studying web devlopment at DCI__ <img src="type.gif" width="60px">
 <!--
 **M'barek/ben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
