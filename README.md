@@ -1,6 +1,5 @@
 
 ### Hi there <img src="wave.gif" width="30px">
-# [Visit My Portfolio Online](https://incomparable-monstera-3d8c6e.netlify.app)
 
 __My name is M'barek , 
 i am fullstack web developer with IT Support experience ,I am living in Hamburg and currently Studying web devlopment at DCI__ <img src="type.gif" width="60px">
